@@ -1,5 +1,5 @@
 # WebScraping Carne Escolar
-![Snapshot to the processing of webscraping](/design/webscraping_carneEscolar.jpg)
+![Snapshot to the processing of webscraping](/design/webscraping_page_html.jpg)
 
 ## Goals
 Automation of the process of filling and printing the form for the creation of School Booklets.
